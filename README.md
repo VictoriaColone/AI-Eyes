@@ -6,9 +6,9 @@
 
 ## 演示
 
-<video src="docs/demo.mp4" controls width="360"></video>
+![实机演示](docs/demo.gif)
 
-*实机演示：按住屏幕说出想找的物品 → 松开 → 语音引导接近 → 确认找到。若上方播放器未加载，可[直接观看视频](docs/demo.mp4)。*
+*实机演示：按住屏幕说出想找的物品 → 松开 → 语音引导接近 → 确认找到。完整版视频：[docs/demo.mp4](docs/demo.mp4)。*
 
 ## 使用流程
 
