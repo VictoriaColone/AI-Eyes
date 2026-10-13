@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Gentle eye: soft almond with warm outlines -->
+    <path
+        android:pathData="M30,54 Q54,30 78,54 Q54,78 30,54 Z"
+        android:strokeColor="#B07B62"
+        android:strokeWidth="4"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:fillColor="#FFE3D2" />
+
+    <path
+        android:pathData="M54,43 a11,11 0 1,0 0,22 a11,11 0 1,0 0,-22"
+        android:fillColor="#F2A48D" />
+
+    <path
+        android:pathData="M54,48.5 a5.5,5.5 0 1,0 0,11 a5.5,5.5 0 1,0 0,-11"
+        android:fillColor="#8A5140" />
+
+    <path
+        android:pathData="M50.5,50.5 a2.8,2.8 0 1,0 0,5.6 a2.8,2.8 0 1,0 0,-5.6"
+        android:fillColor="#FFFFFF" />
+
+    <path
+        android:pathData="M57.5,57.5 a1.4,1.4 0 1,0 0,2.8 a1.4,1.4 0 1,0 0,-2.8"
+        android:fillColor="#66FFFFFF" />
+
+    <!-- Warm sparkle -->
+    <path
+        android:pathData="M76,30.5 Q76.9,35.1 81,36 Q76.9,36.9 76,41.5 Q75.1,36.9 71,36 Q75.1,35.1 76,30.5 Z"
+        android:fillColor="#F6C289" />
+
+    <!-- Gentle smile -->
+    <path
+        android:pathData="M44,70 Q54,77 64,70"
+        android:strokeColor="#B07B62"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent" />
+</vector>

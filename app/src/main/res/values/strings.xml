@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI之眼</string>
+    <string name="status_booting">正在启动…</string>
+    <string name="hint_hold">按住屏幕说话，松开结束</string>
+</resources>
