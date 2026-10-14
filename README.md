@@ -4,6 +4,13 @@
 用户用语音说出想找的物品（例如"帮我找垃圾桶"），应用通过 YOLO 实时识别摄像头画面，
 并用语音一步步引导用户转动、前进、伸手触摸到目标。
 
+## 下载安装
+
+从 [Releases 页面](https://github.com/VictoriaColone/AI-Eyes/releases/latest) 下载最新 APK（如 `AI-Eyes-v0.1.0.apk`），
+传输到手机后直接安装（需允许"安装未知应用"）。APK 约 200 MB，为 debug 签名，仅供测试使用。
+
+也可以自行构建：`./gradlew assembleDebug`，产物在 `app/build/outputs/apk/debug/`。
+
 ## 演示
 
 ![实机演示](docs/demo.gif)
